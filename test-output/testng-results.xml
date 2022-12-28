@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-28T13:48:37 EST" name="Default suite" finished-at="2022-12-28T13:48:46 EST" duration-ms="8905">
+    <groups>
+    </groups>
+    <test started-at="2022-12-28T13:48:37 EST" name="Default test" finished-at="2022-12-28T13:48:46 EST" duration-ms="8905">
+      <class name="com.naveenautomation.Tests.MyAccountTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Tests.MyAccountTest@7e7be63f]" started-at="2022-12-28T13:48:37 EST" name="setUp" finished-at="2022-12-28T13:48:44 EST" duration-ms="7338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserIsAbleToUpdatePhoneNumber()[pri:0, instance:com.naveenautomation.Tests.MyAccountTest@7e7be63f]" started-at="2022-12-28T13:48:44 EST" name="verifyUserIsAbleToUpdatePhoneNumber" finished-at="2022-12-28T13:48:45 EST" duration-ms="1411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToUpdatePhoneNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Tests.MyAccountTest@7e7be63f]" started-at="2022-12-28T13:48:45 EST" name="tearDown" finished-at="2022-12-28T13:48:46 EST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.naveenautomation.Tests.MyAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
